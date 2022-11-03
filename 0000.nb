@@ -1,0 +1,549 @@
+Notebook[{Cell[
+CellGroupData[{Cell[
+TextData[{Cell[
+BoxData[ButtonBox[TooltipBox[
+GraphicsBox[{{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}]},{RGBColor[0,0,0],DiskBox[
+{0,0},0.67`]}},ImageSize -> 9,ExpressionUUID -> "eddb7c54-40ef-44f3-8c81-de449a82db90"],
+"start METEORA CODE LIBRARY"],Appearance -> None,RuleDelayed[ButtonFunction,Get[CloudObject[
+"https://www.wolframcloud.com/env/hovestadt/METEORA.wl"]]],Evaluator -> Automatic,
+Method -> "Preemptive"]],ExpressionUUID -> "ca93c55b-759a-40f0-9c33-db5a05aebf55"]," METEORA LIBRARY of BOOKS"," ",Cell[
+BoxData[
+ButtonBox[TooltipBox[GraphicsBox[{{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}]},{RGBColor[
+0,0,0],CircleBox[{0,0},0.67`]}},ImageSize -> 9,ExpressionUUID -> "08acbdf4-f475-4d9f-bf28-75dc10745a9f"],
+"METEORA LIBRARY of BOOKS...0000"],Appearance -> None,RuleDelayed[ButtonFunction,
+$CellContext`MeteoraLinkGoto["METEORA LIBRARY of BOOKS","0000","2495f20c-bcc4-4c5f-ad33-2527f62b0219"]],
+Evaluator -> Automatic,Method -> "Preemptive"]],ExpressionUUID -> "fbb94bcb-cd3d-4718-91cd-1995664ce8c2"]}],
+"Section",CellFrame -> {{0,0},{0,0}},CellAutoOverwrite -> False,CellGroupingRules -> {"SectionGrouping",10},
+GeneratedCell -> True,Editable -> False,Deletable -> True,ExpressionUUID -> "8c37ad96-5a40-4a5a-8565-4a692b1236b6",
+CellMargins -> {{32,3.`},{5,40}}],Cell[
+TextData[{StyleBox["How",FontColor -> RGBColor[
+1,0,0]],StyleBox[" ",FontColor -> RGBColor[1,0,0]],StyleBox["to",FontColor -> RGBColor[
+1,0,0]],StyleBox[" ",FontColor -> RGBColor[1,0,0]],StyleBox["work",FontColor -> RGBColor[
+1,0,0]],StyleBox[" ",FontColor -> RGBColor[1,0,0]],StyleBox["on",FontColor -> RGBColor[
+1,0,0]],StyleBox[" ",FontColor -> RGBColor[1,0,0]],StyleBox["the",FontColor -> RGBColor[
+1,0,0]],StyleBox[" ",FontColor -> RGBColor[1,0,0]],StyleBox["METEORA",FontColor -> RGBColor[
+1,0,0]],StyleBox[" ",FontColor -> RGBColor[1,0,0]],StyleBox["CLOUD",FontColor -> RGBColor[
+1,0,0]]," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[TooltipBox[
+GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,0],DiskBox[
+{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "a7309c56-0bfd-432d-8618-0a1275e966bb"],
+"youtube.com/w...ure=emb_logo"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://www.youtube.com/watch?v=HT5uHyb4fjs&feature=emb_logo"],None},
+ButtonNote -> "youtube.com/w...ure=emb_logo",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "266c872d-163e-498b-8791-4f0f6bb7b8e8"],ExpressionUUID -> "6eeff1f3-13ac-4e67-aebf-142fe50ae638"],
+ExpressionUUID -> "50d43a81-586a-4e0a-be9a-7ca854e86bdf"],ExpressionUUID -> "bbf0f5b5-0def-43e1-846d-bfeff7d21196"],
+ExpressionUUID -> "1f9d62fe-7490-49d9-9fde-a27dfbe439fe"],ExpressionUUID -> "ba91e054-5cb1-4a2d-9ee3-c004c94e15d7"],
+ExpressionUUID -> "d94b2e6b-639e-4207-9446-5912342f7cb4"]],ExpressionUUID -> "59a55c17-aa4c-451e-9c25-de6bc5615d64"]}],
+"Text",ExpressionUUID -> "8d8836e8-c56e-48c7-a945-7fea42c7566c"]},Open],ExpressionUUID -> "7d34f831-d453-434f-82e9-97514150ad81"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"SEU Introduction to AI for Architects HS22"," ",Cell[
+BoxData[ButtonBox[
+TooltipBox[GraphicsBox[{{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}]},{RGBColor[0,
+0,0],CircleBox[{0,0},0.67`]}},ImageSize -> 9,ExpressionUUID -> "3da9a631-1f66-4d58-9eab-51a333ea4c61"],
+"SEU Introduction to AI f...0000"],Appearance -> None,RuleDelayed[ButtonFunction,
+$CellContext`MeteoraLinkGoto["SEU Introduction to AI for Architects HS22","0000",
+"c8c0532b-9f79-470f-9226-98afb46974a9"]],Evaluator -> Automatic,Method -> "Preemptive"]],
+ExpressionUUID -> "6f2e3a1c-faf9-421a-8c5d-c9332b9d42dd"]}],"Section",CellAutoOverwrite -> False,
+GeneratedCell -> True,Editable -> True,Deletable -> True,ExpressionUUID -> "eaf9b5bb-9295-41b9-9d57-4bb68afd08ed",
+CellMargins -> {{32,3.`},{20,5}}],Cell[
+TextData[{StyleBox[RowBox[{"..."," "}]],"starting"," ",StyleBox[
+StyleBox["15",FontWeight -> Bold],FontColor -> RGBColor[1,0,0]],StyleBox[StyleBox[
+".",FontWeight -> Bold],FontColor -> RGBColor[1,0,0]],StyleBox[StyleBox["09",FontWeight -> Bold],
+FontColor -> RGBColor[1,0,0]],StyleBox[StyleBox[".",FontWeight -> Bold],FontColor -> RGBColor[
+1,0,0]],StyleBox[StyleBox["2022",FontWeight -> Bold],FontColor -> RGBColor[1,0,0]],StyleBox[
+StyleBox[" ",FontColor -> RGBColor[1,0,0]],FontWeight -> Bold],StyleBox[StyleBox[
+"15",FontColor -> RGBColor[1,0,0]],FontWeight -> Bold],StyleBox[StyleBox[":",FontColor -> RGBColor[
+1,0,0]],FontWeight -> Bold],StyleBox[StyleBox["50",FontColor -> RGBColor[1,0,0]],
+FontWeight -> Bold],StyleBox[RowBox[{StyleBox[StyleBox[" ",FontColor -> RGBColor[
+1,0,0]],FontWeight -> Bold],StyleBox[StyleBox["-",FontColor -> RGBColor[1,0,0]],FontWeight -> Bold],StyleBox[
+StyleBox[" ",FontColor -> RGBColor[1,0,0]],FontWeight -> Bold]}]],StyleBox[StyleBox[
+"18",FontColor -> RGBColor[1,0,0]],FontWeight -> Bold],StyleBox[StyleBox[":",FontColor -> RGBColor[
+1,0,0]],FontWeight -> Bold],StyleBox[StyleBox["15",FontColor -> RGBColor[1,0,0]],
+FontWeight -> Bold],StyleBox[RowBox[{" "," "}]],"beijing"," ","time",StyleBox[RowBox[
+{" ","..."," "}]],"zoom"," ","link"," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,
+0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "5412cae4-d0d9-4c6b-b735-1c1884d1ffc7"],
+".zoom.us/j/22...j/2225238797"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://ethz.zoom.us/j/2225238797"],None},
+ButtonNote -> ".zoom.us/j/22...j/2225238797",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "1d5e48c8-e014-41e2-901e-0d3f82b0275e"],ExpressionUUID -> "ea10e9e9-fef2-49a4-92a1-8f9d62c2869a"],
+ExpressionUUID -> "99238de8-618c-42e4-a88e-1109fbb09d60"]],ExpressionUUID -> "a9dcda45-826c-40f3-b13a-e37d4384daec"]}],
+"Text",ExpressionUUID -> "56cb4677-dd5d-447e-a29c-fc2f34092866"],Cell[
+TextData[{StyleBox[
+"THUs",FontWeight -> Bold],StyleBox[RowBox[{StyleBox[".",FontWeight -> Bold],StyleBox[
+" ",FontWeight -> Bold]}]],StyleBox["15",FontWeight -> Bold],StyleBox[":",FontWeight -> Bold],StyleBox[
+"50",FontWeight -> Bold],StyleBox[RowBox[{StyleBox[" ",FontWeight -> Bold],StyleBox[
+"-",FontWeight -> Bold],StyleBox[" ",FontWeight -> Bold]}]],StyleBox["18",FontWeight -> Bold],StyleBox[
+":",FontWeight -> Bold],StyleBox["15",FontWeight -> Bold],StyleBox[RowBox[{" ","-"," "}]],"15",".","09",StyleBox[
+RowBox[{"."," ","-"," "}]],"22",".","09",StyleBox[RowBox[{"."," ","-"," "}]],"29",".","09",StyleBox[
+RowBox[{"."," ","-"," "}]],"06",".","10",StyleBox[RowBox[{"."," ","-"," "}]],"13",".","10",StyleBox[
+RowBox[{"."," ","-"," "}]],"20",".","10",StyleBox[RowBox[{"."," ","-"," "}]],"27",".","10",StyleBox[
+RowBox[{"."," ","-"," "}]],"03",".","11",StyleBox[RowBox[{"."," ","-"," "}]],"10",".","11",StyleBox[
+RowBox[{"."," ","-"," "}]],"17",".","11",StyleBox[RowBox[{"."," ","-"," "}]],"24",".","11",StyleBox[
+RowBox[{"."," ","-"," "}]],"01",".","12",StyleBox[RowBox[{"."," "," ","-"," "}]],"08",".","12",StyleBox[
+RowBox[{"."," ","-"," "}]],"15",".","12"}],"Text",ExpressionUUID -> "61694de4-dd40-4925-9df1-b06887f1a7c8"],Cell[
+TextData[
+{StyleBox["XENOTHEKA",FontColor -> RGBColor[1,0,0]],StyleBox[" ",FontColor -> RGBColor[
+1,0,0]],StyleBox["access",FontColor -> RGBColor[1,0,0]],StyleBox[" ",FontColor -> RGBColor[
+1,0,0]],StyleBox["for",FontColor -> RGBColor[1,0,0]],StyleBox[" ",FontColor -> RGBColor[
+1,0,0]],StyleBox["non",FontColor -> RGBColor[1,0,0]],StyleBox["-",FontColor -> RGBColor[
+1,0,0]],StyleBox["ETH",FontColor -> RGBColor[1,0,0]],StyleBox[" ",FontColor -> RGBColor[
+1,0,0]],StyleBox["students",FontColor -> RGBColor[1,0,0]],StyleBox[RowBox[{" "," "}]],"User",StyleBox[
+RowBox[{":"," "}]],StyleBox["xenostudent",FontSlant -> Italic],StyleBox[RowBox[{","," "}]],"Pass",StyleBox[
+RowBox[{":"," "}]],StyleBox["quei4dap",FontSlant -> Italic]," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,
+0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "07c184ab-017d-4c5e-af0a-e19b32551806"],
+"theka.delbeke...rch.ethz.ch/"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://xenotheka.delbeke.arch.ethz.ch/"],None},
+ButtonNote -> "theka.delbeke...rch.ethz.ch/",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "850e35c9-266a-4bc8-85a0-d069c4a26e2f"],ExpressionUUID -> "24564bba-8ad8-4e90-9f6d-478210e5400f"],
+ExpressionUUID -> "93f89cbe-3b76-493c-acd9-ef49dd37eeb0"],ExpressionUUID -> "02317692-99a9-4237-8edc-0d8b85200980"]],
+ExpressionUUID -> "35fba2ef-5d06-4637-9ab6-4758dff3ea90"]}],"Text",ExpressionUUID -> "f577316a-cf59-407a-af3e-d63b3717449b"],Cell[
+CellGroupData[
+{Cell[
+TextData[{StyleBox[RowBox[{">"," "}]],"lecture",StyleBox[RowBox[{" ","#"}]],"01"," ","15",".","09"," ",Cell[
+BoxData[
+Cell[
+ButtonBox[TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[
+0,0,0],CircleBox[{0,0},0.67`]},ImageSize -> 9,ExpressionUUID -> "665892b1-0ba6-4001-8f77-0a64dcdb9fde"],
+"SEU Introduction to AI f...0000"],RuleDelayed[ButtonFunction,MeteoraLinkGoto["SEU Introduction to AI for Architects HS22",
+"0000","6bc26ff0-67d9-4f72-9b74-80dcff51744d"]],Evaluator -> Automatic,Method -> "Preemptive",
+Appearance -> None],ExpressionUUID -> "41f89c97-2268-42fb-9dad-950e1ad9778d"]],ExpressionUUID -> "3e7978f9-261e-4fa3-a6c1-b3aa2bdcd90d"]}],
+"Subsection",CellAutoOverwrite -> False,GeneratedCell -> False,ExpressionUUID -> "f36950ea-0496-439c-8729-2b9c3ff10ae8"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"CONTENT"," ","of"," ","this"," ","lecture"," ","series"," ",Cell[
+BoxData[
+ButtonBox[TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[
+0,0,0],CircleBox[{0,0},0.67`]},ImageSize -> 9,ExpressionUUID -> "0cfc940a-657e-4643-929b-ba9cd609aa16"],
+"SEU Introduction to AI f...0000"],RuleDelayed[ButtonFunction,MeteoraLinkGoto["SEU Introduction to AI for Architects HS22",
+"0000","a05d800c-5ce9-46c3-a466-2f2a302c4032"]],Evaluator -> Automatic,Method -> "Preemptive",
+Appearance -> None]],ExpressionUUID -> "e1d6a616-74b7-48ce-9114-d292fc246560"]}],
+"Subsubsection",CellAutoOverwrite -> False,GeneratedCell -> False,ExpressionUUID -> "f98723d6-6428-446d-abbd-6149f6a641f4"],Cell[
+TextData[
+{"why"," ","the"," ","lambda"," ","calculus"," ","for"," ","architects","\n","operating"," ","on"," ","different"," ","media",StyleBox[
+RowBox[{" ","("}]],"text",StyleBox[RowBox[{","," "}]],"image",StyleBox[RowBox[{","," "}]],"graph",StyleBox[
+RowBox[{","," "}]],"graphic",StyleBox[RowBox[{","," "}]],"audio",StyleBox[RowBox[
+{" ","..."," ",")"}]],"\n","stochastics",StyleBox[RowBox[{","," "}]],"statistics"," ","and"," ","probabilistics","\n","communication",StyleBox[
+RowBox[{","," "}]],"data"," ","formats",StyleBox[RowBox[{","," "}]],"cryptography"," ","and"," ","block"," ","chain","\n","introduction"," ","to"," ","AI","\n","big"," ","data",StyleBox[
+RowBox[{","," "}]],"artificial"," ","intelligence"," ","and"," ","the"," ","calculus","\n","example"," ","AI"," ","on"," ","texts","\n","parsing"," ","data"," ","from"," ","the"," ","internet","\n","example"," ","AI"," ","on"," ","images","\n","example"," ","AI"," ","on"," ","floorplans"}],
+"Text",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "32909c55-c549-45d3-b52b-48d6a794ac46"]},
+Open],ExpressionUUID -> "c4b457f8-fe15-48d7-954d-65c982169455"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"to"," ","READ"," ",Cell[
+BoxData[ButtonBox[TooltipBox[GraphicsBox[
+{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,0],CircleBox[{0,0},0.67`]},
+ImageSize -> 9,ExpressionUUID -> "474a7c93-afdf-45c3-b335-40b7fd9187ca"],"SEU Introduction to AI f...0000"],
+RuleDelayed[ButtonFunction,MeteoraLinkGoto["SEU Introduction to AI for Architects HS22",
+"0000","9ac2d719-8b38-4bf5-b992-fa12d7645940"]],Evaluator -> Automatic,Method -> "Preemptive",
+Appearance -> None]],ExpressionUUID -> "5f77be79-b3ff-4fab-a32a-b6b7ce92426f"]}],
+"Subsubsection",CellAutoOverwrite -> False,GeneratedCell -> False,ExpressionUUID -> "b8631524-9616-4436-a313-555a55843fe1"],Cell[
+TextData[
+{"a"," ","summary"," ","of"," ","my"," ","applied"," ","research"," ","from"," ","2000",StyleBox[
+RowBox[{" ","-"," "}]],"2010",StyleBox[RowBox[{":"," "}]],"hovestadt",StyleBox[RowBox[
+{","," "}]],"beyond"," ","the"," ","grid",StyleBox[RowBox[{" "," "}]],Cell[
+BoxData[
+Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[
+{-1,-1},{1,1}],RGBColor[0,0,0],DiskBox[{0,0},0.5`]},ImageSize -> 9],"theka.delbeke...the_Grid.pdf"],
+BaseStyle -> "Hyperlink",ButtonData -> {URL["https://xenotheka.delbeke.arch.ethz.ch/xenotheka/e_Hovestadt__Beyond_the_Grid/Hovestadt__Beyond_the_Grid.pdf"],None},
+ButtonNote -> "theka.delbeke...the_Grid.pdf",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "ae365845-0fe3-4a37-8757-3108aa745205"],ExpressionUUID -> "c6f2aa4b-32d1-4810-ad16-8a7c1c6f7413"],
+ExpressionUUID -> "96caabe5-9882-449f-a0e4-405fdf5058f4"],ExpressionUUID -> "cc32a97a-84e5-4eff-974c-23ddaf9eb29f"]]]}],
+"Subsubsubsection",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "b546a0b3-d2ca-4cd6-8bcf-48837c4d5115"],Cell[
+TextData[
+{"as"," ","an"," ","appetizer",StyleBox[RowBox[{":"," "}]],StyleBox["Introduction",
+FontSlant -> Italic],StyleBox[" ",FontSlant -> Italic],StyleBox["to",FontSlant -> Italic],StyleBox[
+" ",FontSlant -> Italic],StyleBox["the",FontSlant -> Italic],StyleBox[" ",FontSlant -> Italic],StyleBox[
+"Wolfram",FontSlant -> Italic],StyleBox[" ",FontSlant -> Italic],StyleBox["Language",
+FontSlant -> Italic],StyleBox[RowBox[{" "," "}]],Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,0,0],CircleBox[{0,0},0.67`],RGBColor[1,1,1],DiskBox[
+{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "caaf3e02-4803-4cab-ab98-7cef9f2274fd"],
+"youtube link _P9HqHVPeik"],RuleDelayed[ButtonFunction,MeteoraVideoStart["_P9HqHVPeik",
+0,ImageSize -> {480,270}]],Evaluator -> Automatic,Method -> "Preemptive",Appearance -> None],
+CellAutoOverwrite -> False,CellAutoOverwrite -> False,ExpressionUUID -> "3b2085dd-1cc5-48b1-9608-cac2de69640e"],
+ExpressionUUID -> "533fff12-b4d0-4260-b0da-7c6b4d3b9b73"],ExpressionUUID -> "fdd080e4-4b91-49b1-92f4-191348d4f895"],
+ExpressionUUID -> "c90e23dd-719c-4f97-9f44-a99218ec57d3"],ExpressionUUID -> "a595b89f-0de4-4e46-b182-3173143d2c78"],
+ExpressionUUID -> "1b46e422-24c4-4a74-b649-1468c22c81b9"],ExpressionUUID -> "e4f6f99d-ef3d-4e83-9714-e0d5b8060841"]],
+ExpressionUUID -> "5061fa46-0663-4ab6-b2ed-9d15fe3cac9d"]," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+TooltipBox[
+ButtonBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[1,0,0],DiskBox[
+{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "ae836d6a-93ee-4def-bcf8-56393797e4f3"],
+RuleDelayed[ButtonFunction,MeteoraVideoStopp[]],Evaluator -> Automatic,Method -> "Preemptive",
+Appearance -> None],"stop movie"],ExpressionUUID -> "af880597-1551-4ff1-8fc1-96f7ca75efd4"],
+ExpressionUUID -> "b47b452e-eb74-4c68-9a43-4710fb863574"],ExpressionUUID -> "c23b35f8-7d6f-4e28-9982-daeb3e558143"],
+ExpressionUUID -> "e8f55ce4-e48c-45df-a282-ea55f347a82e"],ExpressionUUID -> "36ff0b3d-4920-4f7c-bd82-7d3ec7298cf9"]],
+ExpressionUUID -> "073d0faf-5add-4b52-9a54-3f914a00f3e2"]}],"Subsubsubsection",CellAutoOverwrite -> False,
+GeneratedCell -> True,Editable -> True,Deletable -> True,ExpressionUUID -> "cc8cd095-2e11-4fab-bfa6-98815b681870"],Cell[
+TextData[
+{"the"," ","conceptual"," ","motivation"," ","of"," ","mathematica",StyleBox[RowBox[
+{":"," "}]],StyleBox["Wolfram",FontSlant -> Italic],StyleBox[" ",FontSlant -> Italic],StyleBox[
+"What",FontSlant -> Italic],StyleBox[" ",FontSlant -> Italic],StyleBox["We\[CloseCurlyQuote]ve",
+FontSlant -> Italic],StyleBox[" ",FontSlant -> Italic],StyleBox["Built",FontSlant -> Italic],StyleBox[
+" ",FontSlant -> Italic],StyleBox["Is",FontSlant -> Italic],StyleBox[" ",FontSlant -> Italic],StyleBox[
+"a",FontSlant -> Italic],StyleBox[" ",FontSlant -> Italic],StyleBox["Computational",
+FontSlant -> Italic],StyleBox[" ",FontSlant -> Italic],StyleBox["Language",FontSlant -> Italic],StyleBox[
+RowBox[{StyleBox[" ",FontSlant -> Italic],StyleBox["(",FontSlant -> Italic]}]],StyleBox[
+"2019",FontSlant -> Italic],StyleBox[RowBox[{StyleBox[")",FontSlant -> Italic]," "}]],Cell[
+BoxData[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[TooltipBox[GraphicsBox[
+{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,0],DiskBox[{0,0},0.5`]},
+ImageSize -> 9,BoxID -> "{\"data\":\"{\\\"jsonData\\\":\\\"{\\\\\\\"type\\\\\\\": \\\\\\\"Graphics\\\\\\\",\\\\n\\\\\\\"version\\\\\\\": \\\\\\\"1.0\\\\\\\",\\\\n\\\\\\\"height\\\\\\\": 9.000000,\\\\n\\\\\\\"width\\\\\\\": 9.000000,\\\\n\\\\\\\"offset\\\\\\\": [-66.000000, -5.000000],\\\\n\\\\\\\"UserCoords\\\\\\\": [-1.041667, 1.040000, 1.302083, -1.303750],\\\\n\\\\\\\"AxesOrigin\\\\\\\": [0.000000, 0.000000],\\\\n\\\\\\\"primitives\\\\\\\": [\\\\n{\\\\\\\"type\\\\\\\": \\\\\\\"Clip\\\\\\\", \\\\\\\"transform\\\\\\\": [1.000000, 0.000000, 0.000000, 1.000000, 0.000000, 0.000000], \\\\\\\"path\\\\\\\": [[66,5], [66,14], [75,14], [75,5]]},\\\\n{\\\\\\\"type\\\\\\\": \\\\\\\"Polygon\\\\\\\", \\\\\\\"antialiased\\\\\\\" : false, \\\\\\\"edgeForm\\\\\\\": {\\\\\\\"color\\\\\\\": [255, 255, 255], \\\\\\\"opacity\\\\\\\": 1, \\\\\\\"thickness\\\\\\\": {}, \\\\\\\"capForm\\\\\\\": \\\\\\\"Square\\\\\\\", \\\\\\\"joinForm\\\\\\\": {\\\\\\\"type\\\\\\\": \\\\\\\"Miter\\\\\\\", \\\\\\\"d\\\\\\\": 3.23931}, \\\\\\\"dashing\\\\\\\": []}, \\\\\\\"faceForm\\\\\\\": {\\\\\\\"color\\\\\\\": [255, 255, 255], \\\\\\\"opacity\\\\\\\": 1}, \\\\\\\"fillrule\\\\\\\" : \\\\\\\"EvenOdd\\\\\\\" , \\\\\\\"points\\\\\\\": [[66.16,12.8336], [66.16,5.1536], [73.84,5.1536], [73.84,12.8336]]}, \\\\n{\\\\\\\"type\\\\\\\": \\\\\\\"Ellipse\\\\\\\", \\\\\\\"center\\\\\\\": [70, 8.9936], \\\\\\\"radius\\\\\\\": [1.92, 1.92], \\\\\\\"angle\\\\\\\": [0, 360], \\\\\\\"antialiased\\\\\\\" : true, \\\\\\\"edgeForm\\\\\\\": null, \\\\\\\"faceForm\\\\\\\": {\\\\\\\"color\\\\\\\": [0, 0, 0], \\\\\\\"opacity\\\\\\\": 1}}, \\\\n{\\\\\\\"type\\\\\\\": \\\\\\\"Group\\\\\\\", \\\\\\\"name\\\\\\\": \\\\\\\"Frame\\\\\\\",\\\\n\\\\\\\"metadata\\\\\\\": {\\\\\\\"left\\\\\\\": -1.04167, \\\\\\\"top\\\\\\\": 1.04, \\\\\\\"right\\\\\\\": 1.04167, \\\\\\\"bottom\\\\\\\": -1.04},\\\\n\\\\\\\"primitives\\\\\\\":[]}, \\\\n{\\\\\\\"type\\\\\\\": \\\\\\\"Group\\\\\\\", \\\\\\\"name\\\\\\\": \\\\\\\"Axes\\\\\\\",\\\\n\\\\\\\"metadata\\\\\\\": \\\\\\\"TBD\\\\\\\",\\\\n\\\\\\\"primitives\\\\\\\":[]}],\\\\n\\\\\\\"PlotRange\\\\\\\": {\\\\\\\"left\\\\\\\": 0.000000, \\\\\\\"top\\\\\\\": -7.000000, \\\\\\\"right\\\\\\\": 8.000000, \\\\\\\"bottom\\\\\\\": 0.987200}\\\\n}\\\\n\\\",\\\"requestedImageSize\\\":9}\"}",
+ExpressionUUID -> "f0fc32a9-e400-4fbb-8b4d-ddc0db8e01aa"],"ings.stephenw...y-important/"],
+BaseStyle -> "Hyperlink",ButtonData -> {URL["https://writings.stephenwolfram.com/2019/05/what-weve-built-is-a-computational-language-and-thats-very-important/"],None},
+ButtonNote -> "ings.stephenw...y-important/",Appearance -> None,FrameMargins -> None],
+CellAutoOverwrite -> False,CellAutoOverwrite -> False,ExpressionUUID -> "2030abed-d5b7-4732-bac7-d8dad635b32a"],
+CellAutoOverwrite -> False,CellAutoOverwrite -> False,ExpressionUUID -> "cc996eef-b5cf-4f0a-ad65-f0b27b2c3b57"],
+ExpressionUUID -> "f4ccb646-b6a3-49f5-9e18-c4a4e2a55b02"],ExpressionUUID -> "fbc69677-de3f-4f79-bc5b-b533d155de6a"],
+ExpressionUUID -> "22c6459b-5761-4d51-8783-bcf8abdaf3f1"],ExpressionUUID -> "6025f4dd-4038-474c-8007-b3c6b5a8d7fd"],
+ExpressionUUID -> "9868f530-4b27-4c0d-b483-b0ad24bbffc8"],ExpressionUUID -> "ed2f75aa-e6c0-4e5d-a061-b2ba1248ac14"]],
+ExpressionUUID -> "055798b8-cf8b-4e51-b6d2-5130f91e3a74"]}],"Subsubsubsection",CellAutoOverwrite -> False,
+GeneratedCell -> True,ExpressionUUID -> "3f6e4843-0df8-4a6d-985d-2d5868f73837"]},
+Open],ExpressionUUID -> "c4a5ae8c-0cb1-465e-a40e-c9da00be7dc0"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"to"," ","DO"}],"Subsubsection",CellAutoOverwrite -> False,GeneratedCell -> False,
+ExpressionUUID -> "11d320b2-3cde-4d60-ba02-a2edd13f9a39"],Cell[
+CellGroupData[{Cell[
+TextData[
+{"Stephen"," ","Wolfram",StyleBox[RowBox[{":","\[NonBreakingSpace]"}]],"An"," ","Elementary"," ","Introduction"," ","to"," ","the"," ","Wolfram"," ","Language"," ","1",StyleBox[
+RowBox[{" ","-"," "}]],"8"," ","how"," ","to"," ","basics"}],"Subsubsubsection",CellAutoOverwrite -> False,
+GeneratedCell -> True,ExpressionUUID -> "8d910f80-f793-4d36-b554-4fd2e2276d0c"],Cell[
+TextData[
+{"1",StyleBox[RowBox[{" ","\t"}]],"Starting"," ","Out",StyleBox[RowBox[{":"," "}]],"Elementary"," ","Arithmetic"," ",Cell[
+BoxData[
+Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[
+{-1,-1},{1,1}],RGBColor[0,0,0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "e6352535-a001-4379-895b-4749eed89c8b"],
+"wolfram.com/w...etic.en.html"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/01-starting-out-elementary-arithmetic.en.html"],None},
+ButtonNote -> "wolfram.com/w...etic.en.html",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "5a4a770c-e672-4743-8698-3959b49cd658",CellAutoOverwrite -> False],
+ExpressionUUID -> "14503b31-76ce-4f0b-a554-e9a5b0d1eee0"],ExpressionUUID -> "2685f7e1-d9af-4265-9dd0-a4f6edbfa636"],
+ExpressionUUID -> "cd6806a1-6f5f-4a67-862d-04fe378c8b1a"]],ExpressionUUID -> "eff346ad-3e55-4394-83c6-3f8042148edb"]," ","BASIC"}],
+"Text",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "07fecdf8-3e73-4157-a851-2a022f1d8828"],Cell[
+TextData[
+{"2","\t","Introducing"," ","Functions"," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,
+0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "62297fd4-d81c-4ca1-b0f0-b0219671f403"],
+"wolfram.com/w...ions.en.html"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/02-introducing-functions.en.html"],None},
+ButtonNote -> "wolfram.com/w...ions.en.html",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "c7b36f52-5424-465c-af72-61f6b164fa00",CellAutoOverwrite -> False],
+ExpressionUUID -> "95ed1788-3876-49cc-967d-e3e0d7dcf44c"],ExpressionUUID -> "89506d53-0581-4f01-bcb1-4a2c631ea5b4"],
+ExpressionUUID -> "a01bdab7-32a4-4972-880e-2a46737a5beb"]],ExpressionUUID -> "b958c04a-ff1f-4ed5-818b-b202a70f7416"]," ","BASIC"}],
+"Text",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "f370a046-31e6-4475-9eaf-3c511e0732ad"],Cell[
+TextData[
+{"3","\t","First"," ","Look"," ","at"," ","Lists"," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,
+0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "09b7927a-e5af-4dc2-aa00-ec5dc5e2e7bf"],
+"wolfram.com/w...ists.en.html"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/03-first-look-at-lists.en.html"],None},
+ButtonNote -> "wolfram.com/w...ists.en.html",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "c72c2966-d48f-4f8c-bcb3-f35c89c8e031",CellAutoOverwrite -> False],
+ExpressionUUID -> "16db1757-b023-466e-9232-0a10d7d3e80e"],ExpressionUUID -> "8f14c70e-5605-4a46-ba01-1015b19831f4"],
+ExpressionUUID -> "c9d1fd10-ea09-4dc2-b656-eb6e9d6e8e97"]],ExpressionUUID -> "1c3c1b37-56ae-4f53-b741-83cbf97511e9"]," ","BASIC"}],
+"Text",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "38d350f1-b041-4b5a-aed9-36d7d01bbd9c"],Cell[
+TextData[
+{"4","\t","Displaying"," ","Lists"," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,
+0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "0ab6d4fb-acf6-4108-a2f4-dbadcafc5ccb"],
+"wolfram.com/w...ists.en.html"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/04-displaying-lists.en.html"],None},
+ButtonNote -> "wolfram.com/w...ists.en.html",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "63d57069-3213-4289-8ed9-6450151ed685",CellAutoOverwrite -> False],
+ExpressionUUID -> "7d40a4ce-dd88-4f4e-a446-6993bc7acb6c"],ExpressionUUID -> "93f95906-1f65-4ec5-bb63-de6b58270a16"],
+ExpressionUUID -> "372bd50e-2fc3-48cd-a6fc-5c64471f70fa"]],ExpressionUUID -> "2441ea50-d622-4dcf-afca-85642821d64a"]," ","SPECIAL"}],
+"Text",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "cf4ad261-6110-4218-98ac-fb6a1d6abc42"],Cell[
+TextData[
+{"5","\t","Operations"," ","on"," ","Lists"," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,
+0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "ebbed5da-3510-49ac-bb69-968763f07946"],
+"wolfram.com/w...ists.en.html"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/05-operations-on-lists.en.html"],None},
+ButtonNote -> "wolfram.com/w...ists.en.html",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "ee3bea26-cd5f-45a9-b553-bc0e61615daf",CellAutoOverwrite -> False],
+ExpressionUUID -> "93ee5c5c-77c5-400f-ba2b-f99a40b11a77"],ExpressionUUID -> "1ac5dd1e-3a67-46c8-a400-f9615589712a"],
+ExpressionUUID -> "ef7fa8ad-85e9-4965-8c15-c530b2275e80"]],ExpressionUUID -> "7c400a58-69cd-41f5-b85f-c5586aca9429"]," ","IMPORTANT"}],
+"Text",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "51ad32db-12dc-4e75-bf23-29ac69a5bf3c"],Cell[
+TextData[
+{"6","\t","Making"," ","Tables"," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,
+0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "86895343-feb2-4ade-9b2b-05597dd6a599"],
+"wolfram.com/w...bles.en.html"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/06-making-tables.en.html"],None},
+ButtonNote -> "wolfram.com/w...bles.en.html",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "b3f612c4-349a-4070-b7c1-e75dca51cadd",CellAutoOverwrite -> False],
+ExpressionUUID -> "7f2cca15-98cb-4842-ae8f-825b8e160807"],ExpressionUUID -> "3a531794-d52f-4623-a835-332f5490e06c"],
+ExpressionUUID -> "ffa01f26-810e-4118-899b-cbd8e7bc086c"]],ExpressionUUID -> "32f73809-a0e8-45df-906d-10b30eaccbd7"]," ","SPECIAL"}],
+"Text",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "aea9d783-ff79-4130-b58a-c273b51acf50"],Cell[
+TextData[
+{"7","\t","Colors"," ","and"," ","Styles"," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,
+0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "8077fdd6-0ed3-4ab9-8c70-bd2118805f48"],
+"wolfram.com/w...yles.en.html"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/07-colors-and-styles.en.html"],None},
+ButtonNote -> "wolfram.com/w...yles.en.html",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "b1729811-79de-49a7-9789-09faab74677e",CellAutoOverwrite -> False],
+ExpressionUUID -> "4845a3e2-948d-43cb-85f2-7db31053ea57"],ExpressionUUID -> "2e5b8255-fec1-4561-a978-8c3838c44d6f"],
+ExpressionUUID -> "dc8d384b-d65d-47b2-91b9-14b92109e624"]],ExpressionUUID -> "c0177092-bf52-401f-b08f-2ce3faf0204c"]," ","BASIC"}],
+"Text",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "3a677e2d-5319-400e-abc4-f90ac0147767"],Cell[
+TextData[
+{"8","\t","Basic"," ","Graphics"," ","Objects"," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,
+0],DiskBox[{0,0},0.5`]},ImageSize -> 9,ExpressionUUID -> "542854ba-fb7e-4b89-a812-7df49d7cf0ce"],
+"wolfram.com/w...ects.en.html"],BaseStyle -> "Hyperlink",ButtonData -> {URL["https://www.wolfram.com/wolfram-u/an-elementary-introduction-to-the-wolfram-language/08-basic-graphics-objects.en.html"],None},
+ButtonNote -> "wolfram.com/w...ects.en.html",Appearance -> None,FrameMargins -> None],
+ExpressionUUID -> "8ed9c967-4bfd-4f5e-8bc2-bed65cf4a614",CellAutoOverwrite -> False],
+ExpressionUUID -> "e929cd15-f89b-40d2-a547-e198bd3c7761"],ExpressionUUID -> "cfb6e8b1-2798-4c73-9394-e5b76c6f20b4"],
+ExpressionUUID -> "fb368884-c0f5-4d71-924d-d03acfab90a9"]],ExpressionUUID -> "b61bc5e2-5a7e-4164-8f4f-a7938853da3b"]," ","BASIC"}],
+"Text",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "34186c78-ed5c-4c43-9b02-f7cdff607952"]},
+Open],ExpressionUUID -> "06486d32-860a-49f4-a5ec-70018de59f00"]},Open],ExpressionUUID -> "b1b9807d-d2e7-41e1-8c6e-4560d6094ee3"]},
+Open],ExpressionUUID -> "81f21bdd-211d-4000-9f01-8633af5d9721"],Cell[
+CellGroupData[
+{Cell[
+TextData[{StyleBox[RowBox[{">"," "}]],"lecture",StyleBox[RowBox[{" ","#"}]],"02"," ","22",".","09"," ",Cell[
+BoxData[
+Cell[
+ButtonBox[TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[
+0,0,0],CircleBox[{0,0},0.67`]},ImageSize -> 9,ExpressionUUID -> "bab3684f-5fc9-4023-99e1-8b2cf0b64b5c"],
+"SEU Introduction to AI f...0000"],RuleDelayed[ButtonFunction,MeteoraLinkGoto["SEU Introduction to AI for Architects HS22",
+"0000","13796422-0e6f-4e21-a06d-3ed07e36e237"]],Evaluator -> Automatic,Method -> "Preemptive",
+Appearance -> None],ExpressionUUID -> "23a6eddb-0228-4d4a-8848-94d0f5495854"]]]}],
+"Subsection",CellAutoOverwrite -> False,GeneratedCell -> False,ExpressionUUID -> "77e7929e-f573-41af-b169-e841f3fd2f76"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"to"," ","READ"," ",Cell[
+BoxData[Cell[
+ButtonBox[TooltipBox[GraphicsBox[
+{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}],RGBColor[0,0,0],CircleBox[{0,0},0.67`]},
+ImageSize -> 9,ExpressionUUID -> "36a77d5a-28b7-4fda-8c10-517561a3601b"],"SEU Introduction to AI f...0000"],
+RuleDelayed[ButtonFunction,MeteoraLinkGoto["SEU Introduction to AI for Architects HS22",
+"0000","3eacdece-d056-43d6-8da5-38c8bb5eb350"]],Evaluator -> Automatic,Method -> "Preemptive",
+Appearance -> None],ExpressionUUID -> "9096c397-6d4d-4236-b133-ec7a5d39e3aa"]]]}],
+"Subsubsection",CellAutoOverwrite -> False,GeneratedCell -> False,ExpressionUUID -> "22fd9379-97cf-4c7a-9d99-5cfbd9fbb1e9"],Cell[
+TextData[
+{"a"," ","recent"," ","text"," ","on"," ","coding"," ","for"," ","architects",StyleBox[
+RowBox[{":"," "}]],"Atlas"," ","of"," ","Digital"," ","Architecture"," ",Cell[
+BoxData[
+Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[TooltipBox[GraphicsBox[{{RGBColor[1,1,1],DiskBox[
+{0,0},1]},{RGBColor[0,0,0],CircleBox[{0,0},0.67`]}},ImageSize -> 9],"Atlas of Dig...0000"],
+Appearance -> None,RuleDelayed[ButtonFunction,$CellContext`MeteoraLinkGoto["Atlas of Digital Architecture",
+"0000","1389af98-4a45-46c9-8c22-712a8d86146d"]],Evaluator -> Automatic,Method -> "Preemptive"],
+ExpressionUUID -> "898b17c4-78de-45b7-997a-af4cc65cec00"],ExpressionUUID -> "563f87ca-fdc2-4df1-941b-988a07ecdbc5"],
+ExpressionUUID -> "af73ad63-7672-4c6c-9ba3-4a8796e13297"],ExpressionUUID -> "1a320133-7e21-4f34-a2be-fbff2de7dc84"]]]," ","Chapter"," ","13"," ","Text",StyleBox[
+RowBox[{" ","&"," "}]],"Code"," ",Cell[
+BoxData[Cell[
+Cell[
+Cell[
+ButtonBox[TooltipBox[
+GraphicsBox[{{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}]},{RGBColor[0,0,0],CircleBox[
+{0,0},0.67`]}},ImageSize -> 9],"Atlas of Digital Archite...0005"],Appearance -> None,
+RuleDelayed[ButtonFunction,$CellContext`MeteoraLinkGoto["Atlas of Digital Architecture",
+"0005","cce363ce-8a51-4205-9803-9803ff77c439"]],Evaluator -> Automatic,Method -> "Preemptive"],
+ExpressionUUID -> "21dcde40-c23e-45ab-81fc-3f396213b56c"],ExpressionUUID -> "442358d0-6d94-4baa-a4cf-61f5d1b0e93e"],
+ExpressionUUID -> "bbefd46b-1f89-42c7-92e8-10de086eb142"]]]}],"Subsubsubsection",
+CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "a85ef6bb-655e-4fe3-a248-51469078e4a5"],Cell[
+CellGroupData[
+{Cell[
+TextData[{"a"," ","conceptional"," ","lecture"," ","series",StyleBox[RowBox[
+{":"," "}]],"digital"," ","architectonics"," ","primer"," ","v2",".","0"," ",Cell[
+BoxData[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[TooltipBox[GraphicsBox[{{RGBColor[
+1,1,1],RectangleBox[{-1,-1},{1,1}]},{RGBColor[0,0,0],CircleBox[{0,0},0.67`]}},ImageSize -> 9],
+"digital architectonics p...0000"],Appearance -> None,RuleDelayed[ButtonFunction,
+$CellContext`MeteoraLinkGoto["digital architectonics primer v2.0","0000","f4e746a8-c658-432a-9046-84074e56a221"]],
+Evaluator -> Automatic,Method -> "Preemptive"],ExpressionUUID -> "dd591c8e-eab8-487c-8942-f898451fa129"],
+ExpressionUUID -> "c2336483-6cc9-4727-8f1a-a1142c057bdb"],ExpressionUUID -> "cbd913ce-7b1d-425b-909a-008b345f460d"],
+ExpressionUUID -> "59a2de97-1ada-41b6-a9b9-a4420d43047a"],ExpressionUUID -> "7041e131-bf67-4314-ab4c-46a6f13c7c72"],
+ExpressionUUID -> "e1ffed61-afe8-4963-a2fd-45081461d6ce"],ExpressionUUID -> "d8a22df8-4ad9-47fa-bb2f-9c125d7eb8fa"]]]}],
+"Subsubsubsection",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "5f43c932-8aae-4f24-a811-c45f50e18457"],Cell[
+TextData[
+{"#","00"," ","introduction",StyleBox[RowBox[{" "," "}]],Cell[
+BoxData[Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[
+TooltipBox[GraphicsBox[{{RGBColor[1,1,1],RectangleBox[{-1,-1},{1,1}]},{RGBColor[0,
+0,0],CircleBox[{0,0},0.67`]}},ImageSize -> 9],"digital architectonics p...0015"],
+Appearance -> None,RuleDelayed[ButtonFunction,$CellContext`MeteoraLinkGoto["digital architectonics primer v2.0",
+"0015","21fedb2d-0669-43fc-a7e2-f0131257582c"]],Evaluator -> Automatic,Method -> "Preemptive"],
+ExpressionUUID -> "1b37675f-26cc-4bc9-87a2-1144044a9529"],ExpressionUUID -> "648b4ed6-4a27-4dbc-9330-1fa0ae6a6ce9"],
+ExpressionUUID -> "5e1e816b-20d8-43d2-a199-536e4169bbd3"],ExpressionUUID -> "eeadb89c-f6c4-4395-b095-741ec04d5480"],
+ExpressionUUID -> "5c0b0f8f-a023-4ab3-85e5-c3a20b914236"]]]}],"Text",CellAutoOverwrite -> False,
+GeneratedCell -> True,Editable -> True,Deletable -> True,ExpressionUUID -> "2bf6299c-078f-4e6d-9922-09d6263dbe8d"],Cell[
+TextData[
+{"#","01"," ","HOW"," ","to"," ","TAKE"," ","SPACE",StyleBox[RowBox[{" "," "}]],Cell[
+BoxData[
+Cell[
+Cell[
+Cell[
+Cell[
+Cell[
+ButtonBox[TooltipBox[GraphicsBox[{{RGBColor[1,1,1],RectangleBox[
+{-1,-1},{1,1}]},{RGBColor[0,0,0],CircleBox[{0,0},0.67`]}},ImageSize -> 9],"digital architectonics p...0021"],
+Appearance -> None,RuleDelayed[ButtonFunction,$CellContext`MeteoraLinkGoto["digital architectonics primer v2.0",
+"0021","caf88bed-358d-4efb-a82b-89df2cf64063"]],Evaluator -> Automatic,Method -> "Preemptive"],
+ExpressionUUID -> "34282b40-5b14-4231-a0cb-2ae951e7d9af"],ExpressionUUID -> "9e029550-f74d-42e8-9f17-09f5045afd34"],
+ExpressionUUID -> "55e4181b-dbf3-46b8-b91c-a2a551750944"],ExpressionUUID -> "fc7c0775-4248-45ca-b57d-622614aa23a1"],
+ExpressionUUID -> "4e9e6a84-1bcc-4b20-996e-58649a0bd7dd"]]]}],"Text",CellAutoOverwrite -> False,
+GeneratedCell -> True,Editable -> True,Deletable -> True,ExpressionUUID -> "038274b6-fb2a-4c73-a635-bf207c0ad803"],Cell[
+TextData[
+{"#","08"," ","why"," ","MATHEMATICA"," ","and"," ","not"," ","e",".","g",StyleBox[
+RowBox[{"."," "}]],"PYTHON"," ","DRAFT","\n","\t","or",StyleBox[RowBox[{":"," "}]],"how"," ","to"," ","do"," ","things"," ","not"," ","possible"," ","before"," ",Cell[
+BoxData[
+Cell[
+Cell[
+Cell[
+ButtonBox[TooltipBox[GraphicsBox[{RGBColor[1,1,1],RectangleBox[
+{-1,-1},{1,1}],RGBColor[0,0,0],CircleBox[{0,0},0.67`]},ImageSize -> 9],"digital architectonics p...0001"],
+RuleDelayed[ButtonFunction,MeteoraLinkGoto["digital architectonics primer v2.0","0001",
+"cee05784-58aa-4a8f-9805-69aec74f5b23"]],Evaluator -> Automatic,Method -> "Preemptive",
+Appearance -> None],ExpressionUUID -> "3bedda39-fc71-42a3-a6ed-f7145ebe2645"],ExpressionUUID -> "28336f09-29ca-4fd7-a5e1-e7338277a787"],
+ExpressionUUID -> "344c811c-c3ff-4af2-9b4c-6ef1405e75c2"]]]}],"Text",CellAutoOverwrite -> False,
+GeneratedCell -> True,Editable -> True,Deletable -> True,ExpressionUUID -> "0b2c5942-fdf1-452e-af88-d869a5a6e5df"]},
+Open],ExpressionUUID -> "f372c5a6-adbf-4e14-977d-f0e4cd0896bf"]},Open],ExpressionUUID -> "7c44029c-f657-4b94-b804-036fd8caa10a"]},
+{1}],ExpressionUUID -> "e126f343-5d3a-4e5c-9dbf-28f2ad0dc8a9"]},Open],ExpressionUUID -> "f1eba427-a3be-4ebe-8879-5f1535f1626a"],Cell[
+TextData[
+{Cell[
+BoxData[RowBox[{StyleBox[RowBox[{"SEU"," ","Introduction"," ","to"," ","AI"," ","for"," ","Architects"," ","HS22"," ","0000"}],
+" ","Text",FontSize -> 12],Cell[
+BoxData[ButtonBox[TooltipBox[GraphicsBox[{{RGBColor[
+1,1,1],RectangleBox[{-1,-1},{1,1}]},{RGBColor[0,0,0],CircleBox[{0,0},0.67`]}},ImageSize -> 9,
+ExpressionUUID -> "0ea96bd3-08d0-4341-801b-194aba708571"],"SEU Introduction to AI f...0000"],
+Appearance -> None,RuleDelayed[ButtonFunction,$CellContext`MeteoraLinkGoto["SEU Introduction to AI for Architects HS22",
+"0000","787b4e35-825e-42b1-9270-e84aec77c3e0"]],Evaluator -> Automatic,Method -> "Preemptive"]],
+ExpressionUUID -> "4a354f9e-f637-4556-8353-de6fba3624a9"]}]],"Text",Editable -> True,
+Deletable -> True,CellAutoOverwrite -> False,FontSize -> 12,ExpressionUUID -> "c267bee6-4a06-4339-b887-8dce7c36f582"],"\n",StyleBox[
+"ETH Z\[UDoubleDot]rich . digital architectonics . hovestadt . 14.9.2022","  ","Text",
+FontSize -> 12],Cell[
+BoxData[ButtonBox[TooltipBox[GraphicsBox[{{RGBColor[1,1,1],RectangleBox[
+{-1,-1},{1,1}]},{RGBColor[0,0,0],DiskBox[{0,0},0.5`]}},ImageSize -> 9,ExpressionUUID -> "eb631e2d-def3-43ea-8b0e-87b869ae0eed"],
+"digital architectonics home"],Appearance -> None,BaseStyle -> "Hyperlink",ButtonData -> {URL[
+"https://www.caad.arch.ethz.ch"],None},ButtonNote -> "caad.arch.eth...arch.ethz.ch",
+FrameMargins -> None]],ExpressionUUID -> "05966df1-91eb-4cfa-b6d1-a87146f6c0d0"]}],
+"Section",CellAutoOverwrite -> False,GeneratedCell -> True,ExpressionUUID -> "820fa323-e675-486f-b5c2-23b9662c1726"]},
+StyleDefinitions -> Notebook[{Cell[
+StyleData[StyleDefinitions -> "Default.nb"]],Cell[
+TextData[
+StyleBox["ATTENTION: just saving does not wokr. needs an explicit save to cloud.\nyou also have to reevaluate the METEORA CODE file\nand update the style of the existing meteora pages via pagestylechange\n\ndid not find a way to change auto grouping and therefore do not use own styles",
+FontColor -> RGBColor[1,0,0]]],"Text",CellChangeTimes -> {{3.801371053427107`*^9,3.801371103115189`*^9},{3.8013715524253283`*^9,3.801371554610701`*^9},{3.801381095679253`*^9,3.801381096186987`*^9},{3.801388849757525`*^9,3.801388867765609`*^9},{3.801392817218379`*^9,3.8013928527154303`*^9},{3.80145435508995`*^9,3.801454406587494`*^9}}],Cell[
+StyleData[
+"Title"],CellMargins -> {{32,3.`},{10.`,36}},FontFamily -> "Clear Sans",FontSize -> 18,
+FontWeight -> "Regular",FontSlant -> "Plain",PrivateFontOptions -> {"FontPostScriptName" -> "Automatic"},
+FontColor -> GrayLevel[0]],Cell[
+StyleData["Subtitle"],CellMargins -> {{32,3.`},{36,10}},
+FontFamily -> "Clear Sans",FontSize -> 18,FontWeight -> "Regular",FontSlant -> "Plain",
+PrivateFontOptions -> {"FontPostScriptName" -> "Automatic"},FontColor -> GrayLevel[
+0]],Cell[
+StyleData["Section"],CellFrame -> {{0,0},{0,0.5`}},CellMargins -> {{32,3.`},{20,20}},
+CellGroupingRules -> {"SectionGrouping",10},FontFamily -> "Clear Sans",FontSize -> 18,
+FontWeight -> "Regular",FontSlant -> "Plain",PrivateFontOptions -> {"FontPostScriptName" -> "Automatic"},
+FontColor -> GrayLevel[0]],Cell[
+StyleData["Subsection"],CellMargins -> {{42,3.`},{10.`,16.`}},
+CellGroupingRules -> {"SectionGrouping",20},FontFamily -> "Clear Sans",FontSize -> 16,
+FontWeight -> "Regular",FontSlant -> "Plain",PrivateFontOptions -> {"FontPostScriptName" -> "Automatic"},
+FontColor -> GrayLevel[0]],Cell[
+StyleData["Subsubsection"],CellMargins -> {{62,10.`},{10,16.`}},
+CellGroupingRules -> {"SectionGrouping",30},FontFamily -> "Clear Sans",FontSize -> 16,
+FontWeight -> "Regular",FontSlant -> "Plain",PrivateFontOptions -> {"FontPostScriptName" -> "Automatic"},
+FontColor -> GrayLevel[0]],Cell[
+StyleData["Subsubsubsection"],CellMargins -> {{92,10.`},{5.`,8.`}},
+CellGroupingRules -> {"SectionGrouping",40},FontFamily -> "Clear Sans",FontSize -> 14,
+FontWeight -> "Regular",FontSlant -> "Plain",PrivateFontOptions -> {"FontPostScriptName" -> "Automatic"},
+FontColor -> GrayLevel[0]],Cell[
+StyleData["Text"],CellMargins -> {{112,10.`},{5.`,8.`}},
+CellGroupingRules -> "NormalGrouping",FontFamily -> "Clear Sans",FontSize -> 14,FontWeight -> "Regular",
+FontSlant -> "Plain",PrivateFontOptions -> {"FontPostScriptName" -> "Automatic"},
+FontColor -> GrayLevel[0]],Cell[
+StyleData["Input"],CellMargins -> {{112,10.`},{5.`,8.`}},
+Background -> RGBColor[0.937254`,0.952942`,0.960784`]],Cell[
+StyleData["Output"],
+CellMargins -> {{112,10.`},{12.`,5.`}},Background -> RGBColor[0.968627`,0.976471`,
+0.980392`]],Cell[
+StyleData["Hyperlink"],FontColor -> GrayLevel[0]]},Visible -> False,
+FrontEndVersion -> "13.1 for Linux x86 (64-bit) (June 16, 2022)",StyleDefinitions -> "PrivateStylesheetFormatting.nb"],
+FrontEndVersion -> "13.1 for Wolfram Cloud 1.63.0.1 (July 14, 2022)",DockedCells -> {}]
